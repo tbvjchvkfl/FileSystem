@@ -1,0 +1,4 @@
+---MONSTERDATA---
+Wolf,1,1,1
+Demon,5,5,5
+slime,4,4,4
