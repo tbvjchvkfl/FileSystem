@@ -51,6 +51,7 @@ public:
 			mMP = std::stoi(line);
 		}
 		catch (std::exception e)
+
 		{
 			std::cerr << "파일 구조가 올바르지 않습니다." << std::endl;
 		}
