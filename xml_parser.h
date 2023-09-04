@@ -15,24 +15,6 @@ public:
 };
 
 
-//void LoadXML(const char* filename, std::vector<Sprite>& sprites)
-//{
-//	std::ifstream ifs;
-//	ifs.exceptions(std::ifstream::badbit);
-//	try
-//	{
-//		ifs.open(filename);
-//		for (int i = 0; i < sprites.size(); ++i)
-//		{
-//			
-//		}
-//
-//	}
-//	catch(std::ifstream::failure e)
-//	{
-//		ifs.close();
-//	}
-//}
 
 void LoadXML(const char* filename, std::vector<Sprite>& sprites)
 {
